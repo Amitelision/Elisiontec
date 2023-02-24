@@ -1,3 +1,3 @@
 <?php 
 
-echo "Heloo pankaj";
+echo "Heloo amit";
